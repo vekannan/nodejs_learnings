@@ -1,0 +1,19 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "learning node straeams, http, express modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vekannan/nodejs_learnings.git"
+  },
+  "author": "venkatesan kannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vekannan/nodejs_learnings/issues"
+  },
+  "homepage": "https://github.com/vekannan/nodejs_learnings#readme"
+}
